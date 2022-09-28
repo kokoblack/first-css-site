@@ -1,0 +1,156 @@
+body {
+    margin: auto;
+    scroll-behavior: smooth;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1,
+h2,
+h3 {
+    color: #66BFBF;
+}
+
+p {
+    line-height: 28px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.265rem;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding-top: 150px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top: 5px dotted grey;
+    width: 50px;
+}
+
+.top-container {
+    position: relative;
+    background-color: #DFF6FF;
+}
+
+.cloud-1 {
+    position: absolute;
+    right: 15rem;
+    top: 5rem;
+
+}
+
+.cloud-2 {
+    position: absolute;
+    left: 15rem;
+}
+
+.middle-container {
+    width: 50%;
+    margin: 0 auto 0 auto;
+    padding-top: 50px;
+}
+
+.center-text {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.mg-3 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.middle-image {
+    width: 150px;
+    height: 150px;
+}
+
+.mg-1 {
+    margin-right: 20px;
+}
+
+.mg-2 {
+    margin-left: 15px;
+}
+
+.circle-image {
+    border-radius: 100%;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.middle-mg1 {
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.middle-mg2 {
+    margin-bottom: 100px;
+}
+
+.talign {
+    text-align: left;
+}
+
+.pd-top {
+    padding-top: 20px;
+}
+
+.mg-4 {
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px;
+    background-color: #11999E;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.col-1 {
+    color: #EAF6F6;
+    text-decoration: none;
+}
+
+.ft-style {
+    text-decoration: none;
+    color: #0b6063;
+    display: inline-block;
+    width: 100px;
+}
+
+.pd-2 {
+    padding-top: 50px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+}
+
+.ft-style-1 {
+    color: #EAF6F6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
